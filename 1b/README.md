@@ -6,7 +6,7 @@
 ## Результаты визуализации
 После обработки данных формируется сравнительный график, демонстрирующий работу алгоритмов при различных параметрах плотности.
 
-![Subsampling Comparison](results/subsampling_comparison.png)
+![Subsampling Comparison](subsampling_comparison.png)
 
 ---
 
